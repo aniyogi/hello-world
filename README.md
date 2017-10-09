@@ -1,2 +1,2 @@
 # hello-world
-simple exercise to start with GitHub :)
+changing the branch while learning the use of GitHub
